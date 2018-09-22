@@ -53,6 +53,3 @@ var createBoard = function() {
 }
 
 createBoard()
-       
-	   
-	

@@ -10,7 +10,7 @@ h1 {
 }
 
 p {
-	font-family: "droid Serif", serif;
+	font-family: "Droid Serif", serif;
 }
 
 a {
@@ -93,4 +93,13 @@ a:hover {
 .name {
 	color:f15b31;
 	font-weight: 700;
+}
+.reset {
+	background-color: #f15b31;
+	border: none;
+	color: white;
+	padding: 14px 30px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 15px;
 }
